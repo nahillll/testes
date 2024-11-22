@@ -1,0 +1,14 @@
+p{
+    width: 20%;
+    margin-left: 100px;
+    border: solid black 15px;
+    padding: 10PX;
+    font-size: 24px;
+
+}
+p:hover{
+    background-color: blue;
+}
+a{
+    margin-left: 45px;
+}

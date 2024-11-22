@@ -1,0 +1,45 @@
+.banner{
+    background-color: gray;
+    height: 20%;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+}
+body{
+    height: 100vh;
+}
+.menu{
+    background-color: gray;
+    height: 10%;
+    margin-top: 5px;
+    text-align: center;
+}
+.conteudo{
+    background-color: white;
+    height: 50%;
+    margin-top: 5px;
+    border: solid black 5px;
+}
+.rodape{
+    background-color: gray;
+    height: 15%;
+    margin-top: 5px;
+}
+h1{
+    margin: 0px;
+    font-size: 64px;
+}
+p, a{
+    font-size: 28px;
+    text-decoration: underline;
+}
+.div1{
+    display: inline-block;
+    width: 40%;
+    margin: 5px 4%;
+}
+.div2{
+    display: inline-block;
+    width: 40%;
+    margin: 5px 4%;  
+}
